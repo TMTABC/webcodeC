@@ -1,0 +1,22 @@
+{
+  "name": "webcodec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TMTABC/webcodeC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TMTABC/webcodeC/issues"
+  },
+  "homepage": "https://github.com/TMTABC/webcodeC#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
